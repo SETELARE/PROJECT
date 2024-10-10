@@ -1,0 +1,3 @@
+apple 10 15.5
+orange 20 10.5
+lime 5 36.6
